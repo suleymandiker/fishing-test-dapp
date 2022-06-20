@@ -4,7 +4,7 @@ export default function ErrorMessage({ message }) {
     return (
       <div className="alert alert-error">
         <div className="flex-1">
-          <div>Error</div>
+          <div>Errorr</div>
           <label>{message}</label>
         </div>
       </div>
